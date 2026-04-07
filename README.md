@@ -37,7 +37,7 @@ A Streamlit-based chatbot that allows users to ask questions about YouTube video
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 git clone https://github.com/manav-panwar/YouTube-Rag-Chatbot.git
@@ -58,7 +58,7 @@ HF_TOKEN='your-key'
 
 ---
 
-## ▶️ Run the App
+##  Run the App
 
 ```bash
 streamlit run app.py
@@ -76,7 +76,7 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Requires videos with available captions
 * Performance depends on transcript quality
