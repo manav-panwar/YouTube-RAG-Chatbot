@@ -1,6 +1,10 @@
+streamlit
 youtube-transcript-api
+langchain
 langchain-community
+langchain-core
+langchain-google-genai
+langchain-huggingface
 faiss-cpu
 tiktoken
 python-dotenv
-langchain-google-genai
